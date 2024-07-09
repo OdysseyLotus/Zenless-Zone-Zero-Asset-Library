@@ -1,0 +1,2 @@
+ElfyBodyDiffuse = 00d168c7
+ElfyFaceDiffuse = b1c501bc
