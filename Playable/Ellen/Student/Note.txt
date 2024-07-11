@@ -1,1 +1,3 @@
 0e474202 seems to be broken. I might have to find Ellen again.
+
+Well, I tried it again, and the texture came out the exact same. Is that just what it looks like?
