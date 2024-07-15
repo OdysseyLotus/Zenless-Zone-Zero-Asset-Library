@@ -32,24 +32,34 @@ Glorious Guardians		= 9b4538fb
 
 Invasion: Next Gen		= 02b0b62e
 
+Last Flight				= 43aa9c4a
+
 Never Overtime	 		= 2c894d73
 
 Nihility				= df1e7b9f
 
 Oh~ Sweetie				= 9b954196
 
+Rookie's Guide to the Hollow	= 1e7950f5
+
 Small Body Big Crisis	= 3a43256c
 
 Starlight Knight		= 28b3ca43
 
+Sunset Plaza			= 0a33e7d0
+
 The Big Hollow			= 9d5f4940
 
 The Heartbeat			= e5352238
+
+The Port Peak			= c27cb0f1
 
 The Ridu Tour			= c4a51a6b
 
 This Is How I Am		= 2c631d49
 
 TreCarls				= 74903714
+
+Unlimited Players		= 12e047ee
 
 We Need You				= ed4f243f
