@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "cdcb032d",
+        "position_vb": "820e6f80",
+        "blend_vb": "43d59111",
+        "texcoord_vb": "56c6fcc7",
+        "ib": "f905d909",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0a418ce3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "42f01608"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dff521e2"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f649b6fd"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Clothes",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "c0d3a581",
+        "position_vb": "f7e51fdf",
+        "blend_vb": "1d751a11",
+        "texcoord_vb": "5479d3b8",
+        "ib": "a739aab7",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f433ebfb"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "e5f96c5a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "870b631c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3076ae56"
+                ]
+            ]
+        ]
+    }
+]

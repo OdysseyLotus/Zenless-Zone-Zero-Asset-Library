@@ -1,0 +1,17 @@
+ShortFemale1 = Black dress with dark grey undershirt; Archie (Ballet Twins Road, afternoon)
+
+ShortFemale2 = Black hoodie, red skirt, blue striped socks with pink crocs; Fahmira (Ballet Twins Road, afternoon)
+
+ShortFemale3 = Red hoodie, green skirt, grey striped socks with grey crocs
+
+ShortFemale4 = Grey hoodie, pink skirt, white socks with teal crocs
+
+ShortFemale5 = Black crop top, white undershirt, black jeans with hearts
+
+TallFemale1  = Brown shirt, dark grey overall skirt
+
+TallFemale2  = Black spaghetti-strap dress with X's on the chest
+
+TallMale1	 = Blue suit with a red tie
+
+TallMale2	 = Business casual
