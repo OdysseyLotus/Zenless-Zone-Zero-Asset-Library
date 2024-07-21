@@ -1,0 +1,2 @@
+Eous, Bangboo 18, and Bangboo 06 share their model and their normalmap, lightmap, and material map textures with each other.
+If you edit any of these, then it will affect the other one.

@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Clipboard",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "2a0217d8",
+        "position_vb": "389ef90c",
+        "blend_vb": "1368d649",
+        "texcoord_vb": "81ab6459",
+        "ib": "568d2937",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0575930c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8cd73bd6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9556353f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "55e3da93"
+                ]
+            ]
+        ]
+    }
+]

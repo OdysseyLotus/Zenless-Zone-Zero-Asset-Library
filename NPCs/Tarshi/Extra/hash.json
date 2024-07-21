@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "Guitar",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "17967042",
+        "position_vb": "c7e301c1",
+        "blend_vb": "6a9407fe",
+        "texcoord_vb": "2b092604",
+        "ib": "75a0ca15",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d2030637"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4859303a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6a8b1d59"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "490d4e40"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Mat",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "b37ad75a",
+        "position_vb": "2e2de6c2",
+        "blend_vb": "38f1ef3b",
+        "texcoord_vb": "5aca377f",
+        "ib": "03b95516",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d2030637"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4859303a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6a8b1d59"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "490d4e40"
+                ]
+            ]
+        ]
+    }
+]
