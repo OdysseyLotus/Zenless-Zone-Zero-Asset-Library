@@ -1,44 +1,5 @@
 [
     {
-        "component_name": "Bangboo",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "bb7fffe9",
-        "position_vb": "176bf3d7",
-        "blend_vb": "4e1d9c9a",
-        "texcoord_vb": "077c3500",
-        "ib": "40e64ae2",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "f86ffe2c"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "8cf23419"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "80855e0f"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "95cabef3"
-                ]
-            ]
-        ]
-    },
-    {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "8cc1262b",
@@ -77,6 +38,45 @@
                     "95cabef3"
                 ]
             ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f86ffe2c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8cf23419"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "80855e0f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "95cabef3"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bangboo",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "bb7fffe9",
+        "position_vb": "176bf3d7",
+        "blend_vb": "4e1d9c9a",
+        "texcoord_vb": "077c3500",
+        "ib": "40e64ae2",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
             [
                 [
                     "Diffuse",

@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Clothes",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d18e0aef",
+        "position_vb": "41eebb42",
+        "blend_vb": "266446db",
+        "texcoord_vb": "2915242a",
+        "ib": "1f317b4f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5cb1caa3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "15cf3996"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "689f5617"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "9324793b"
+                ]
+            ]
+        ]
+    }
+]

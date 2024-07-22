@@ -1,0 +1,104 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "743d7368",
+        "position_vb": "09407689",
+        "blend_vb": "9624b304",
+        "texcoord_vb": "73384cae",
+        "ib": "99b25613",
+        "object_indexes": [
+            0,
+            7020
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4546ced4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "f203335b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dff521e2"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "77ed00ad"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed744b91"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "15aef44c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9b9e4581"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "e6330b6a"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Medal",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "1f9b89c2",
+        "position_vb": "29494073",
+        "blend_vb": "2ca06e67",
+        "texcoord_vb": "3da7a4c6",
+        "ib": "54547d59",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed744b91"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "15aef44c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9b9e4581"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "e6330b6a"
+                ]
+            ]
+        ]
+    }
+]
