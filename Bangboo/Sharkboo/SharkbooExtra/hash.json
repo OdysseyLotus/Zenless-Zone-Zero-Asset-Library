@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Trap",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "01572433",
+        "position_vb": "fb962d0f",
+        "blend_vb": "0f704b70",
+        "texcoord_vb": "5ed73406",
+        "ib": "ec23f500",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "89300a63"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "9ed658e1"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f424be6b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "c38cd62d"
+                ]
+            ]
+        ]
+    }
+]
